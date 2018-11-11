@@ -1,2 +1,8 @@
 *.log
 *.sqlite3
+*.env
+.bundle
+.cache
+.DS_Store
+.sass-cache
+build/

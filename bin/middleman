@@ -25,5 +25,6 @@ end
 
 require "rubygems"
 require "bundler/setup"
+require "middleman-gh-pages"
 
 load Gem.bin_path("middleman-cli", "middleman")
